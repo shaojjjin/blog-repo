@@ -1,0 +1,14 @@
+baseurl = "https://blog.zeon.im/"
+title = "Nothing here"
+theme = "angels-ladder"
+
+[permalinks]
+    post = "/:year/:month/:title/"
+    page = "/:title/"
+
+[params]
+    subtitle = "But nothing is everthing."
+    description = "But nothing is everthing."
+    showsRSS = false
+    About = "/about"
+    copyright = "©2018 zeon.im"
